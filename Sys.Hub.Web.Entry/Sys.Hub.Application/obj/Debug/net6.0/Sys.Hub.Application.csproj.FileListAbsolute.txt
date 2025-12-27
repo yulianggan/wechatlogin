@@ -1,0 +1,15 @@
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Application/bin/Debug/net6.0/Sys.Hub.Application.deps.json
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Application/bin/Debug/net6.0/Sys.Hub.Application.dll
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Application/bin/Debug/net6.0/Sys.Hub.Application.pdb
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Application/bin/Debug/net6.0/Sys.Hub.Core.dll
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Application/bin/Debug/net6.0/Sys.Hub.Core.pdb
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Application/obj/Debug/net6.0/Sys.Hub.Application.csproj.AssemblyReference.cache
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Application/obj/Debug/net6.0/Sys.Hub.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Application/obj/Debug/net6.0/Sys.Hub.Application.AssemblyInfoInputs.cache
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Application/obj/Debug/net6.0/Sys.Hub.Application.AssemblyInfo.cs
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Application/obj/Debug/net6.0/Sys.Hub.Application.csproj.CoreCompileInputs.cache
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Application/obj/Debug/net6.0/Sys.Hub.Application.dll
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Application/obj/Debug/net6.0/Sys.Hub.Application.pdb
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Application/obj/Debug/net6.0/ref/Sys.Hub.Application.dll
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Application/bin/Debug/net6.0/ref/Sys.Hub.Application.dll
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Application/obj/Debug/net6.0/Sys.Hub.Application.csproj.CopyComplete

@@ -1,0 +1,17 @@
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Database.Migrations/bin/Debug/net6.0/Sys.Hub.Database.Migrations.deps.json
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Database.Migrations/bin/Debug/net6.0/Sys.Hub.Database.Migrations.dll
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Database.Migrations/bin/Debug/net6.0/Sys.Hub.Database.Migrations.pdb
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Database.Migrations/bin/Debug/net6.0/Sys.Hub.Core.dll
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Database.Migrations/bin/Debug/net6.0/Sys.Hub.EntityFramework.Core.dll
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Database.Migrations/bin/Debug/net6.0/Sys.Hub.EntityFramework.Core.pdb
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Database.Migrations/bin/Debug/net6.0/Sys.Hub.Core.pdb
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Database.Migrations/obj/Debug/net6.0/Sys.Hub.Database.Migrations.csproj.AssemblyReference.cache
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Database.Migrations/obj/Debug/net6.0/Sys.Hub.Database.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Database.Migrations/obj/Debug/net6.0/Sys.Hub.Database.Migrations.AssemblyInfoInputs.cache
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Database.Migrations/obj/Debug/net6.0/Sys.Hub.Database.Migrations.AssemblyInfo.cs
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Database.Migrations/obj/Debug/net6.0/Sys.Hub.Database.Migrations.csproj.CoreCompileInputs.cache
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Database.Migrations/obj/Debug/net6.0/Sys.Hub.Database.Migrations.dll
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Database.Migrations/obj/Debug/net6.0/Sys.Hub.Database.Migrations.pdb
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Database.Migrations/obj/Debug/net6.0/ref/Sys.Hub.Database.Migrations.dll
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Database.Migrations/bin/Debug/net6.0/ref/Sys.Hub.Database.Migrations.dll
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.Database.Migrations/obj/Debug/net6.0/Sys.Hub.Database.Migrations.csproj.CopyComplete

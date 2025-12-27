@@ -1,0 +1,15 @@
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.EntityFramework.Core/bin/Debug/net6.0/Sys.Hub.EntityFramework.Core.deps.json
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.EntityFramework.Core/bin/Debug/net6.0/Sys.Hub.EntityFramework.Core.dll
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.EntityFramework.Core/bin/Debug/net6.0/Sys.Hub.EntityFramework.Core.pdb
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.EntityFramework.Core/bin/Debug/net6.0/Sys.Hub.Core.dll
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.EntityFramework.Core/bin/Debug/net6.0/Sys.Hub.Core.pdb
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.EntityFramework.Core/obj/Debug/net6.0/Sys.Hub.EntityFramework.Core.csproj.AssemblyReference.cache
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.EntityFramework.Core/obj/Debug/net6.0/Sys.Hub.EntityFramework.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.EntityFramework.Core/obj/Debug/net6.0/Sys.Hub.EntityFramework.Core.AssemblyInfoInputs.cache
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.EntityFramework.Core/obj/Debug/net6.0/Sys.Hub.EntityFramework.Core.AssemblyInfo.cs
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.EntityFramework.Core/obj/Debug/net6.0/Sys.Hub.EntityFramework.Core.csproj.CoreCompileInputs.cache
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.EntityFramework.Core/obj/Debug/net6.0/Sys.Hub.EntityFramework.Core.dll
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.EntityFramework.Core/obj/Debug/net6.0/Sys.Hub.EntityFramework.Core.pdb
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.EntityFramework.Core/obj/Debug/net6.0/ref/Sys.Hub.EntityFramework.Core.dll
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.EntityFramework.Core/bin/Debug/net6.0/ref/Sys.Hub.EntityFramework.Core.dll
+/Users/mac/github/WeChatScanLogin/Sys.Hub.Web.Entry/Sys.Hub.EntityFramework.Core/obj/Debug/net6.0/Sys.Hub.EntityFramework.Core.csproj.CopyComplete
