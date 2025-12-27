@@ -22,7 +22,7 @@ COPY Sys.Hub.Web.Entry/ ./Sys.Hub.Web.Entry/
 
 # 发布应用
 WORKDIR /src/Sys.Hub.Web.Entry/Sys.Hub.Web.Entry
-RUN dotnet publish -c Release -o /app/publish --no-restore
+RUN dotnet publish -c Release -o /app/publish
 
 # 运行阶段
 FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS runtime
